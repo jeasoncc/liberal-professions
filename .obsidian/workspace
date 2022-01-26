@@ -7,22 +7,16 @@
         "id": "7fbf6484b59f66e8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "学会写作：自我进阶的高效方法.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       },
       {
         "id": "74b58965792033af",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "标题力，如何1秒勾起读者的兴趣.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -79,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学会写作：自我进阶的高效方法.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
