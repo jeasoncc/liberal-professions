@@ -4,20 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "7fbf6484b59f66e8",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "74b58965792033af",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
+        "id": "156e983ee0e20024",
+        "type": "split",
+        "children": [
+          {
+            "id": "7fbf6484b59f66e8",
+            "type": "leaf",
+            "dimension": 33.011583011583014,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/面对问题，应该如何系统思考？.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "a3ed3a6f09f9c008",
+            "type": "leaf",
+            "dimension": 66.98841698841699,
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -57,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332
+    "width": 450
   },
   "right": {
     "id": "3c3cb1cc485152be",
@@ -73,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "src/面对问题，应该如何系统思考？.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,15 +113,15 @@
   },
   "active": "7fbf6484b59f66e8",
   "lastOpenFiles": [
+    "src/面对问题，应该如何系统思考？.md",
+    "src/自我决定论：更换动力系统.md",
+    "README.md",
     "学会写作：自我进阶的高效方法.md",
     "标题力，如何1秒勾起读者的兴趣.md",
     "21212.md",
     "叙事理论的要素.md",
     "共情力，用户思维是个人商业的硬通货.md",
     "服务设计的理念.md",
-    "服务设计（二）.md",
-    "查理·芒格语录.md",
-    "查理·芒格演讲：基本的、普世的智慧是什么？.md",
-    "查理·芒格演讲：聪明人为什么会犯错.md"
+    "服务设计（二）.md"
   ]
 }
