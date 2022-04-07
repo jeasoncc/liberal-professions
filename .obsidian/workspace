@@ -4,32 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "156e983ee0e20024",
-        "type": "split",
-        "children": [
-          {
-            "id": "7fbf6484b59f66e8",
-            "type": "leaf",
-            "dimension": 33.011583011583014,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/面对问题，应该如何系统思考？.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "a3ed3a6f09f9c008",
-            "type": "leaf",
-            "dimension": 66.98841698841699,
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
-          }
-        ],
-        "direction": "horizontal"
+        "id": "7fbf6484b59f66e8",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -85,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/面对问题，应该如何系统思考？.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,6 +92,7 @@
   },
   "active": "7fbf6484b59f66e8",
   "lastOpenFiles": [
+    "src/《个人实相的本质》/如果没有梦的活动，如此坚实的实相将囚禁你.md",
     "src/面对问题，应该如何系统思考？.md",
     "src/自我决定论：更换动力系统.md",
     "README.md",
@@ -121,7 +101,6 @@
     "21212.md",
     "叙事理论的要素.md",
     "共情力，用户思维是个人商业的硬通货.md",
-    "服务设计的理念.md",
-    "服务设计（二）.md"
+    "服务设计的理念.md"
   ]
 }
